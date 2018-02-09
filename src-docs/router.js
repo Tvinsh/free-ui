@@ -4,6 +4,7 @@ import Button from './components/button'
 import Tips from './components/tips'
 import Badge from './components/badge'
 import Loading from './components/loading'
+import Scroll from './components/scroll'
 
 Vue.use(Router)
 const router = new Router({
@@ -13,6 +14,7 @@ const router = new Router({
     { path: '/tips', component: Tips },
     { path: '/badge', component: Badge },
     { path: '/loading', component: Loading },
+    { path: '/scroll', component: Scroll }
   ]
 })
 

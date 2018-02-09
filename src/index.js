@@ -2,7 +2,7 @@ import tips from './tips'
 import button from './button'
 import badge from './badge'
 import loading from './loading'
-
+import scroll from './scroll'
 import config from './config'
 
 const components = {
@@ -10,6 +10,7 @@ const components = {
   button,
   badge,
   loading,
+  scroll
 }
 
 const install = function (Vue) {

@@ -8,6 +8,7 @@
         <span><router-link to="/tips">tips</router-link></span>
         <span><router-link to="/badge">badge</router-link></span>
         <span><router-link to="/loading">loading</router-link></span>
+        <span><router-link to="/scroll">scroll</router-link></span>
         </div>
     </main>
     <div>
